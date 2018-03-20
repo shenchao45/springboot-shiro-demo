@@ -12,6 +12,5 @@
 </head>
 <body>
 <h1> 欢迎登录，${user.username}  master edit master ecit test1</h1>
-
 </body>
 </html>
